@@ -1,4 +1,4 @@
-Client Project Brief
+**Client Project Brief**
 
 
 Scenario Overview
@@ -14,14 +14,10 @@ As cloud engineers, you will deploy James's Next.js portfolio website on AWS usi
 
 Requirements
 The website must be:
-
-Highly Available: Accessible worldwide with minimal downtime
-
-Scalable: Able to handle increasing traffic without performance degradation
-
-Cost-Effective: Optimized hosting costs without unnecessary expenses
-
-Fast Loading: Quick loading times for all visitors globally
+>Highly Available: Accessible worldwide with minimal downtime
+>Scalable: Able to handle increasing traffic without performance degradation
+>Cost-Effective: Optimized hosting costs without unnecessary expenses
+>Fast Loading: Quick loading times for all visitors globally
 
 Project Objectives
 By completing this project, you will:
