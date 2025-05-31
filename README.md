@@ -37,7 +37,7 @@ As cloud engineers, you will deploy James's Next.js portfolio website on AWS usi
 
 Next.js is an open-source React framework maintained by Vercel that enhances the development experience for building web applications.
 
-Key Benefits
+**Key Benefits**
 
 >Server-Side Rendering (SSR): Generates pages on the server for each request
 
